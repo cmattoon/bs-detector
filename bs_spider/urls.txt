@@ -1,0 +1,328 @@
+http://www.zerohedge.com/,CONSPIRACY-PSEUDOSCIENCE
+http://www.addictinginfo.org/,LEFT BIAS
+https://zcomm.org/zmag/,LEFT BIAS
+http://www.tytnetwork.com/,LEFT BIAS
+http://wonkette.com/,LEFT BIAS
+http://winningdemocrats.com/,LEFT BIAS
+http://www.washingtonmonthly.com/,LEFT BIAS
+http://www.vanityfair.com/,LEFT BIAS
+http://usuncut.com/,LEFT BIAS
+http://www.vox.com/,LEFT BIAS
+http://theuspoliticalpost.com/,LEFT BIAS
+http://usapoliticsnow.com/,RIGHT BIAS
+http://uproxx.com/,LEFT BIAS
+https://www.upworthy.com/,LEFT BIAS
+http://www.truthdig.com/,LEFT BIAS
+http://www.truth-out.org/,LEFT BIAS
+http://www.trueactivist.com/,LEFT BIAS
+http://www.tribunemagazine.org/,LEFT BIAS
+http://www.towleroad.com/,LEFT BIAS
+https://this.org/,LEFT BIAS
+http://thinkprogress.org/,LEFT BIAS
+http://thewalrus.ca/,LEFT BIAS
+http://www.progressive.org/,LEFT BIAS
+http://www.theroot.com/,LEFT BIAS
+http://other98.com/,LEFT BIAS
+http://www.thenewcivilrightsmovement.com/,LEFT BIAS
+http://www.thenation.com/,LEFT BIAS
+http://thegrio.com/,LEFT BIAS
+http://www.morningstaronline.co.uk/,LEFT BIAS
+http://thedailybanter.com/,LEFT BIAS
+http://www.thecanary.co/,LEFT BIAS
+http://www.blue-route.org/blog/,LEFT BIAS
+http://www.takepart.com/,LEFT BIAS
+http://talkingpointsmemo.com/,LEFT BIAS
+http://www.sourcewatch.org/index.php/SourceWatch,LEFT BIAS
+http://www.worldsocialism.org/spgb/,LEFT BIAS
+http://prospect.org/,LEFT BIAS
+http://shareblue.com/,LEFT BIAS
+http://www.slate.com/,LEFT BIAS
+http://www.salon.com/,LEFT BIAS
+http://trofire.com/,LEFT BIAS
+http://www.rightwingwatch.org/,LEFT BIAS
+http://revolution-news.com/,LEFT BIAS
+https://rewire.news/,LEFT BIAS
+http://www.redpepper.org.uk/,LEFT BIAS
+http://realtimepolitics.com/,LEFT BIAS
+http://www.rawstory.com/,LEFT BIAS
+http://proudemocrat.com/,LEFT BIAS
+http://politicalupdater.com/,LEFT BIAS
+http://www.pinknews.co.uk/home/,LEFT BIAS
+http://www.politicususa.com/,LEFT BIAS
+http://www.opposingviews.com/,LEFT BIAS
+https://photographyisnotacrime.com/,LEFT BIAS
+http://www.occupydemocrats.com/,LEFT BIAS
+https://nowthisnews.com/,LEFT BIAS
+http://www.newshounds.us/,LEFT BIAS
+http://newscorpse.com/,LEFT BIAS
+http://nymag.com/,LEFT BIAS
+http://www.newyorker.com/,LEFT BIAS
+https://newrepublic.com/,LEFT BIAS
+http://newpol.org/,LEFT BIAS
+http://newint.org/,LEFT BIAS
+https://newleftreview.org/,LEFT BIAS
+http://newcenturytimes.com/,LEFT BIAS
+http://www.nationofchange.org/news/,LEFT BIAS
+http://front.moveon.org/,LEFT BIAS
+http://www.motherjones.com/,LEFT BIAS
+http://modernliberals.com/,LEFT BIAS
+https://medium.com/browse/5c7a70aa7ecd,LEFT BIAS
+http://www.mediaite.com/,LEFT BIAS
+http://mediamatters.org/,LEFT BIAS
+http://samuel-warde.com/,LEFT BIAS
+http://www.liberalamerica.org/,LEFT BIAS
+http://leftaction.com/,LEFT BIAS
+http://www.lavendermagazine.com/,LEFT BIAS
+http://jezebel.com/,LEFT BIAS
+https://www.jacobinmag.com/,LEFT BIAS
+http://www.ifyouonlynews.com/,LEFT BIAS
+http://www.newstatesman.com/,LEFT BIAS
+http://guardianlv.com/,LEFT BIAS
+http://www.huffingtonpost.com/,LEFT BIAS
+http://news.groopspeak.com/,LEFT BIAS
+http://goneleft.com/,LEFT BIAS
+http://www.greenvillegazette.com/,LEFT BIAS
+http://freakoutnation.com/,LEFT BIAS
+http://www.forwardprogressives.com/,LEFT BIAS
+http://everydayfeminism.com/,LEFT BIAS
+http://filmingcops.com/,LEFT BIAS
+http://gizmodo.com/,LEFT BIAS
+https://electronicintifada.net/,LEFT BIAS
+http://www.esquire.com/,LEFT BIAS
+http://economyincrisis.org/,LEFT BIAS
+http://www.drudge.com/,LEFT BIAS
+https://www.dissentmagazine.org/,LEFT BIAS
+http://www.democraticunderground.com/,LEFT BIAS
+http://www.democracynow.org/,LEFT BIAS
+http://www.dailynewsbin.com/,LEFT BIAS
+http://www.mirror.co.uk/,LEFT BIAS
+http://www.dailykos.com/,LEFT BIAS
+http://www.dailydot.com/,LEFT BIAS
+http://www.dallasvoice.com/,LEFT BIAS
+http://crooksandliars.com/,LEFT BIAS
+http://www.thedailybeast.com/,LEFT BIAS
+http://www.counterpunch.org/,LEFT BIAS
+http://www.cosmopolitan.com/,LEFT BIAS
+http://www.commondreams.org/,LEFT BIAS
+http://www.chicagoreader.com/,LEFT BIAS
+http://www.prwatch.org/cmd,LEFT BIAS
+https://www.change.org/,LEFT BIAS
+https://canadiandimension.com/,LEFT BIAS
+http://bust.com/,LEFT BIAS
+http://boingboing.net/,LEFT BIAS
+http://bluenationreview.com/,LEFT BIAS
+http://blackagendareport.com/,LEFT BIAS
+http://blacklivesmatter.com/,LEFT BIAS
+https://www.americanprogress.org/,LEFT BIAS
+http://www.bipartisanreport.com/,LEFT BIAS
+http://www.ebar.com/,LEFT BIAS
+http://americannewsx.com/,LEFT BIAS
+http://americablog.com/,LEFT BIAS
+http://aidc.org.za/amandla-media/,LEFT BIAS
+http://www.advocate.com/,LEFT BIAS
+http://www.whatdoesitmean.com/,CONSPIRACY-PSEUDOSCIENCE
+http://voiceofamericatv.com/,CONSPIRACY-PSEUDOSCIENCE
+http://www.alternet.org/,LEFT BIAS
+http://wearechange.org/,CONSPIRACY-PSEUDOSCIENCE
+http://www.undergroundhealth.com/,CONSPIRACY-PSEUDOSCIENCE
+http://www.trunews.com/,CONSPIRACY-PSEUDOSCIENCE
+http://truepundit.com/,CONSPIRACY-PSEUDOSCIENCE
+https://thetruthaboutcancer.com/,CONSPIRACY-PSEUDOSCIENCE
+http://sustainablepulse.com/,CONSPIRACY-PSEUDOSCIENCE
+https://southfront.org/,CONSPIRACY-PSEUDOSCIENCE
+http://theblacksphere.net/,RIGHT BIAS
+http://www.youngcons.com/,RIGHT BIAS
+http://yellowhammernews.com/,RIGHT BIAS
+http://www.wnd.com/,RIGHT BIAS
+http://www.westernjournalism.com/,RIGHT BIAS
+http://www.weeklystandard.com/,RIGHT BIAS
+http://www.jookos.com/,RIGHT BIAS
+http://www.weaselzippers.us/,RIGHT BIAS
+https://www.webdaily.com/,RIGHT BIAS
+http://freebeacon.com/,RIGHT BIAS
+http://www.vdare.com/,RIGHT BIAS
+http://www.usasupreme.com/,RIGHT BIAS
+http://usanewstoday.org/,RIGHT BIAS
+http://www.uschronicle.com/,RIGHT BIAS
+http://usherald.com/,RIGHT BIAS
+http://twitchy.com/,RIGHT BIAS
+http://www.truthrevolt.org/,RIGHT BIAS
+http://truthinmedia.com/,RIGHT BIAS
+http://truthfeed.com/,RIGHT BIAS
+http://townhall.com/,RIGHT BIAS
+http://theuspatriot.com/,RIGHT BIAS
+http://www.torontosun.com/,RIGHT BIAS
+https://www.thesun.co.uk/,RIGHT BIAS
+https://therealstrategy.com/,RIGHT BIAS
+http://therightscoop.com/,RIGHT BIAS
+http://www.therebel.media/,RIGHT BIAS
+http://www.thepostemail.com/,RIGHT BIAS
+https://patriotpost.us/,RIGHT BIAS
+http://newobserveronline.com/,RIGHT BIAS
+http://www.thegatewaypundit.com/,RIGHT BIAS
+http://www.thenewamerican.com/,RIGHT BIAS
+http://www.fairus.org/,RIGHT BIAS
+http://thefederalist.com/,RIGHT BIAS
+http://thefederalistpapers.org/,RIGHT BIAS
+http://theduran.com/,RIGHT BIAS
+http://www.theblaze.com/,RIGHT BIAS
+http://www.dailywire.com/,RIGHT BIAS
+http://www.angrypatriotmovement.com/,RIGHT BIAS
+http://www.dailytelegraph.com.au/,RIGHT BIAS
+http://constitution.com/,RIGHT BIAS
+http://thebostontribune.com/,RIGHT BIAS
+http://theamericanmirror.com/,RIGHT BIAS
+http://www.tmn.today/,RIGHT BIAS
+http://www.tdnewswire.com/,RIGHT BIAS
+http://www.theamericancause.org/,RIGHT BIAS
+http://www.surenews.com/,RIGHT BIAS
+http://www.westernjournalism.com/thepoint/,RIGHT BIAS
+http://www.teapartytribune.com/,RIGHT BIAS
+http://supremepatriot.com/,RIGHT BIAS
+http://www.theamericanconservative.com/,RIGHT-CENTER BIAS
+http://www.rightsidenews.com/,RIGHT BIAS
+http://silenceisconsent.net/,RIGHT BIAS
+http://redstatewatcher.com/,RIGHT BIAS
+https://rightwingnews.com/,RIGHT BIAS
+http://reagancoalition.com/,RIGHT BIAS
+https://regated.com/,RIGHT BIAS
+http://projectveritas.com/,RIGHT BIAS
+http://www.redstate.com/,RIGHT BIAS
+http://redrockdaily.com/,RIGHT BIAS
+http://www.proamericanews.com/,RIGHT BIAS
+http://www.proud-patriots.com/,RIGHT BIAS
+http://www.proudcons.com/,RIGHT BIAS
+http://www.thepoliticalinsider.com/,RIGHT BIAS
+http://www.politicalears.com/#,RIGHT BIAS
+http://www.progressivestoday.com/,RIGHT BIAS
+http://prntly.com/,RIGHT BIAS
+http://pmnightlynews.com/,RIGHT BIAS
+http://www.powerlineblog.com/,RIGHT BIAS
+http://politichicks.com/,RIGHT BIAS
+https://pjmedia.com/,RIGHT BIAS
+http://www.oann.com/,RIGHT BIAS
+http://www.hoover.org/publications/policy-review,RIGHT BIAS
+http://noscomunicamos.com/,RIGHT BIAS
+http://personalliberty.com/,RIGHT BIAS
+http://nextnewsnetwork.com/,RIGHT BIAS
+http://www.newsmax.com/,RIGHT BIAS
+https://home.nra.org/,RIGHT BIAS
+http://observer.com/,RIGHT BIAS
+http://www.npiamerica.org/,RIGHT BIAS
+http://www.newsbusters.org/,RIGHT BIAS
+http://nevo.news/,RIGHT BIAS
+http://www.newswithviews.com/,RIGHT BIAS
+http://www.nationalreview.com/,RIGHT BIAS
+http://myzonetoday.com/,RIGHT BIAS
+http://www.molonlabemedia.com/,RIGHT BIAS
+http://www.lifezette.com/,RIGHT BIAS
+https://www.lifesitenews.com/,RIGHT BIAS
+http://www.libertywritersnews.com/,RIGHT BIAS
+http://www.mediazone.news/,RIGHT BIAS
+http://madworldnews.com/,RIGHT BIAS
+http://www.mrc.org/,RIGHT BIAS
+http://www.unionleader.com/,RIGHT BIAS
+http://libertyalliance.com/,RIGHT BIAS
+http://libertyunyielding.com/,RIGHT BIAS
+http://libertytalk.fm/,RIGHT BIAS
+https://ijr.com/,RIGHT BIAS
+http://knoxreport.com/,RIGHT BIAS
+http://www.judicialwatch.org/,RIGHT BIAS
+https://www.jihadwatch.org/,RIGHT BIAS
+http://ilovemyfreedom.org/,RIGHT BIAS
+https://www.lewrockwell.com/,RIGHT BIAS
+https://ihavethetruth.com/,RIGHT BIAS
+http://humanevents.com/,RIGHT BIAS
+http://www.hudson.org/,RIGHT BIAS
+http://freedomdaily.com/,RIGHT BIAS
+http://www.heritage.org/,RIGHT BIAS
+https://www.heartland.org/,RIGHT BIAS
+http://www.g-a-i.org/,RIGHT BIAS
+http://www.futureinamerica.com/news,RIGHT BIAS
+http://www.freedomworks.org/,RIGHT BIAS
+http://www.frontpagemag.com/,RIGHT BIAS
+http://freedomoutpost.com/,RIGHT BIAS
+http://www.foxnews.com/,RIGHT BIAS
+http://federalistpress.com/,RIGHT BIAS
+http://www.frc.org/,RIGHT BIAS
+http://www.familysecuritymatters.org/,RIGHT BIAS
+http://eaglerising.com/,RIGHT BIAS
+http://www.drudgereport.com/,RIGHT BIAS
+http://downtrend.com/,RIGHT BIAS
+http://www.discovery.org/,RIGHT BIAS
+http://www.horowitzfreedomcenter.org/,RIGHT BIAS
+http://www.discoverthenetworks.org/,RIGHT BIAS
+http://dailysignal.com/,RIGHT BIAS
+http://www.dailysabah.com/,RIGHT BIAS
+http://crimeresearch.org/,RIGHT BIAS
+http://rickwells.us/,RIGHT BIAS
+http://dailycaller.com/,RIGHT BIAS
+http://conservativetribune.com/,RIGHT BIAS
+http://controversialtimes.com/,RIGHT BIAS
+http://www.conservativehq.com/,RIGHT BIAS
+https://conservative101.com/,RIGHT BIAS
+http://conservativespirit.com/,RIGHT BIAS
+http://www.dailymail.co.uk/ushome/index.html,RIGHT BIAS
+https://www.conservativereview.com/,RIGHT BIAS
+https://www.conservativeoutfitters.com/blogs/news,RIGHT BIAS
+https://www.commentarymagazine.com/,RIGHT BIAS
+http://clashdaily.com/,RIGHT BIAS
+http://www.conservapedia.com/Main_Page,RIGHT BIAS
+http://www.cnsnews.com/,RIGHT BIAS
+http://citizensunited.org/index.aspx,RIGHT BIAS
+http://www.city-journal.org/,RIGHT BIAS
+http://christiantimesnewspaper.com/,RIGHT BIAS
+https://www.chroniclesmagazine.org/,RIGHT BIAS
+http://conservativepost.com/,RIGHT BIAS
+http://www.chicksontheright.com/,RIGHT BIAS
+http://www.breitbart.com/,RIGHT BIAS
+http://www.charismanews.com/,RIGHT BIAS
+http://canadafreepress.com/,RIGHT BIAS
+http://www.campaignlifecoalition.com/,RIGHT BIAS
+http://bluelivesmatter.blue/,RIGHT BIAS
+http://bb4sp.com/,RIGHT BIAS
+http://bigbluevision.org/,RIGHT BIAS
+http://www.bizpacreview.com/,RIGHT BIAS
+http://biggovernment.news/index.html,RIGHT BIAS
+http://www.barenakedislam.com/,RIGHT BIAS
+http://www.amren.com/,RIGHT BIAS
+http://americansforprosperity.org,RIGHT BIAS
+https://baptistnews.com/,RIGHT BIAS
+http://americanupdater.com/,RIGHT BIAS
+http://spectator.org/,RIGHT BIAS
+http://www.americanthinker.com/,RIGHT BIAS
+https://www.aei.org/,RIGHT BIAS
+http://www.americasfreedomfighters.com/,RIGHT BIAS
+https://americanlookout.com/,RIGHT BIAS
+http://www.aim.org/,RIGHT BIAS
+http://100percentfedup.com/,RIGHT BIAS
+http://shoebat.com/,CONSPIRACY-PSEUDOSCIENCE
+http://allenwestrepublic.com/,RIGHT BIAS
+http://www.allenbwest.com/,RIGHT BIAS
+http://www.rense.com/,CONSPIRACY-PSEUDOSCIENCE
+http://www.debunkingskeptics.com/,CONSPIRACY-PSEUDOSCIENCE
+http://www.propornot.com/p/home.html,CONSPIRACY-PSEUDOSCIENCE
+http://www.naturalawakeningsmag.com/,CONSPIRACY-PSEUDOSCIENCE
+http://www.mercola.com/,CONSPIRACY-PSEUDOSCIENCE
+https://healthimpactnews.com/,CONSPIRACY-PSEUDOSCIENCE
+http://www.healthnutnews.com/,CONSPIRACY-PSEUDOSCIENCE
+http://jonesreport.com/,CONSPIRACY-PSEUDOSCIENCE
+http://www.icr.org/,CONSPIRACY-PSEUDOSCIENCE
+http://www.infowars.com/,CONSPIRACY-PSEUDOSCIENCE
+http://www.globalresearch.ca/,CONSPIRACY-PSEUDOSCIENCE
+http://foodbabe.com/,CONSPIRACY-PSEUDOSCIENCE
+http://www.everynewshere.com/,CONSPIRACY-PSEUDOSCIENCE
+http://thedcgazette.com/,CONSPIRACY-PSEUDOSCIENCE
+http://www.dailystar.co.uk/,CONSPIRACY-PSEUDOSCIENCE
+https://www.davidwolfe.com/,CONSPIRACY-PSEUDOSCIENCE
+http://dailyheadlines.net/,CONSPIRACY-PSEUDOSCIENCE
+http://www.disclose.tv/,CONSPIRACY-PSEUDOSCIENCE
+https://conservativedailypost.com/,CONSPIRACY-PSEUDOSCIENCE
+http://www.blackgenocide.org/home.html,CONSPIRACY-PSEUDOSCIENCE
+http://www.collective-evolution.com/,CONSPIRACY-PSEUDOSCIENCE
+http://beforeitsnews.com/,CONSPIRACY-PSEUDOSCIENCE
+http://www.coasttocoastam.com/,CONSPIRACY-PSEUDOSCIENCE
+http://www.centerforsecuritypolicy.org/,CONSPIRACY-PSEUDOSCIENCE
+http://asheepnomore.net/,CONSPIRACY-PSEUDOSCIENCE
+http://369news.net/,CONSPIRACY-PSEUDOSCIENCE
+http://21stcenturywire.com/,CONSPIRACY-PSEUDOSCIENCE
